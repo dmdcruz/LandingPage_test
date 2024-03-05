@@ -129,3 +129,63 @@ figcaption {
     padding-bottom: 50px;
 }
 
+/* SECTION-3 */
+
+.section-3 {
+    background-color:#E5E7EB;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.call-box {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    border-radius: 10px;
+}
+
+.call-header {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.call-text {
+    font-size: 10px;
+    justify-items: center;
+}
+
+
+.callbtn {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: #F9FAF8;
+    width: 125px;
+    font-weight: bold;
+    margin: 20px;
+    font-size: 10px;
+}
+
+.footer {
+    text-align: center;
+    margin: 15px;
+    font-size: 10px;
+    color: #7b7d80;
+}
+    
+
+
+
